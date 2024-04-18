@@ -1,2 +1,2 @@
-require("deda.core")
-require("deda.lazy")
+require("kody.core")
+require("kody.lazy")
