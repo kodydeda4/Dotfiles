@@ -23,7 +23,7 @@ return {
     require("catppuccin").setup({
       flavour = "mocha",
       show_end_of_line_buffer = false,
-      transparent_background = false,
+      transparent_background = true,
       dim_inactive = {
         enabled = false, -- dims the background color of inactive window
         shade = "dark",
